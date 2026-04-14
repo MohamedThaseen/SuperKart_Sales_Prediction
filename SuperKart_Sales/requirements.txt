@@ -1,0 +1,7 @@
+huggingface_hub
+datasets
+pandas
+numpy
+scikit-learn
+RandomForestRegressor
+mlflow
